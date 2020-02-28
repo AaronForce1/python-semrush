@@ -11,9 +11,9 @@ version_info_t = namedtuple(
     'version_info_t', ('major', 'minor', 'micro', 'releaselevel', 'serial'),
 )
 
-VERSION = version_info_t(0, 1, 2, '', '')
+VERSION = version_info_t(0, 1, 4, '', '')
 __version__ = '{0.major}.{0.minor}.{0.micro}{0.releaselevel}'.format(VERSION)
-__author__ = 'Jeremy Storer'
+__author__ = 'Aaron Baideme + Jeremy Storer'
 __contact__ = 'storerjeremy@gmail.com'
 __homepage__ = 'http://github.com/storerjeremy/python-semrush'
 __docformat__ = 'restructuredtext'
