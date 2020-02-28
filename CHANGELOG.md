@@ -1,3 +1,7 @@
+# Release 0.1.4 - Sun Feb 28 21:32:01 AEDT 2016
+
+- Requests package dependency update
+
 # Release 0.1.3 - Sun Feb 28 21:32:01 AEDT 2016
 
 - Fixed test mock import for non python 3
