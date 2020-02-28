@@ -1,3 +1,8 @@
+# Release 0.1.5 - Fri 28 Feb 2020 16:54:11 HKT
+
+- SEMRUSH Keyword 3.0 API Update
+- Version 0.1.5
+
 # Release 0.1.4 - Sun Feb 28 21:32:01 AEDT 2016
 
 - Requests package dependency update
